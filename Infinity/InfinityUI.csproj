@@ -53,8 +53,8 @@
     <Reference Include="LimitlessUI_2.0.0">
       <HintPath>..\..\..\..\..\Downloads\Compressed\LimitlessUI-master\LimitlessUI-master\LimitlessUISample\bin\Debug\LimitlessUI_2.0.0.dll</HintPath>
     </Reference>
-    <Reference Include="MaterialSkin">
-      <HintPath>..\..\..\..\..\Downloads\Compressed\MaterialSkin-master\MaterialSkin-master\MaterialSkin\bin\Debug\MaterialSkin.dll</HintPath>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.Updated.0.2.2\lib\MaterialSkin.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
@@ -193,6 +193,7 @@
     <EmbeddedResource Include="Tabs\Child Tabs\Users_Tab_Child.resx">
       <DependentUpon>Users_Tab_Child.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
