@@ -7,10 +7,10 @@ Place dummy local database provided (InfinityDB) in the project's output directo
 Use Username: Admin and Password: 12345678 for initial login.
 
 # Screenshots
-![Login](/Images/Login.png?raw=true "Title")
+![Login](/Images/Login.png?raw=true "Login")
 
-![Home](/Images/Home.png?raw=true "Title")
+![Home](/Images/Home.png?raw=true "Home")
 
-![Add Defect](/Images/AddDefect.png?raw=true "Title")
+![Add Defect](/Images/AddDefect.png?raw=true "Add Defect")
 
-![Defects List](/Images/DefectList.png?raw=true "Title")
+![Defects List](/Images/DefectList.png?raw=true "Defects List")
